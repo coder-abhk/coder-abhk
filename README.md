@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Abhishek Rawat
-- 👀 I’m Frontend Web Developer
-- 🌱 My technology stack is Javascript, React.js, HTML, CSS, Bootstrap5, Ajax
+- 👀 I’m Frontend Developer
+- 🌱 My technology stack is Javascript, React.js, React Native, HTML, CSS, Bootstrap5, Ajax
 - 📫 How to reach me [email:abhkrwt07@gmail.com]...
